@@ -1,0 +1,2 @@
+# goblog
+go博客
